@@ -1,4 +1,19 @@
-### Hi there 👋
+### Hello World! :earth_africa:
+
+                    I'm Benjamín. 
+---
+🌱 I’m currently learning to be a **Full Stack Web Development** with [Codespace Adademy](https://codespaceacademy.com/).
+
+<u>I'm learning:</u>
+* [x] HTML.
+* [x] CSS.
+* [x] SASS.
+* [x] Boopstrap.
+* [ ] JavaScript.
+* [ ] DOM.
+* [ ] React.js.
+* [ ] Node.js.
+
 
 <!--
 **Benja022/Benja022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
