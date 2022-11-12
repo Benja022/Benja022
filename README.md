@@ -1,5 +1,4 @@
-## Hello:earth_africa:! ###   I'm Benjamín. 
----
+## Hello:earth_africa:!   I'm Benjamín. 
 🌱 I’m currently learning to be a **Full Stack Web Development** with [Codespace Adademy](https://codespaceacademy.com/).
 
 <u>I'm learning:</u>
