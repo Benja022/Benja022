@@ -1,4 +1,3 @@
-`#97f492`
 ## Hello:earth_africa:! 
 ###   I'm Benjamín. 
 ---
