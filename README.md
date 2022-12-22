@@ -6,10 +6,10 @@
 * [x] CSS.
 * [x] SASS.
 * [x] Boopstrap.
-* [ ] JavaScript.
-* [ ] DOM.
-* [ ] React.js.
-* [ ] Node.js.
+* [x] JavaScript.
+* [x] DOM.
+* [x] React.js.
+* [x] Node.js.
 
 
 <!--
