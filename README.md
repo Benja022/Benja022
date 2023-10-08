@@ -1,7 +1,7 @@
 ## Hello:earth_africa:! I'm Benjamín. 
 🌱 **Full Stack Web Development**
 
-<u>I'm learning:</u>
+<u>I Know:</u>
 * [x] HTML.
 * [x] CSS.
 * [x] SASS.
