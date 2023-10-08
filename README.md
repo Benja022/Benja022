@@ -1,5 +1,5 @@
 ## Hello:earth_africa:! I'm Benjamín. 
-🌱 I’m currently learning to be a **Full Stack Web Development** with [Codespace Adademy](https://codespaceacademy.com/).
+🌱 **Full Stack Web Development**
 
 <u>I'm learning:</u>
 * [x] HTML.
@@ -7,9 +7,11 @@
 * [x] SASS.
 * [x] Boopstrap.
 * [x] JavaScript.
-* [x] DOM.
+* [x] SQL y MongoDB.
 * [x] React.js.
 * [x] Node.js.
+* [X] Java.
+* [X] Spring Boot.
 
 
 <!--
