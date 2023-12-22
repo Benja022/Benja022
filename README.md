@@ -1,4 +1,4 @@
-## Hello:earth_africa:! I'm [Benjamín.](https://www.linkedin.com/in/benjamin81/) 
+## Hello :earth_africa:! I'm [Benjamín.](https://www.linkedin.com/in/benjamin81/) 
 🌱 **Full Stack Web Development**
 
 <u>I Know:</u>
