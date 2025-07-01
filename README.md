@@ -1,5 +1,5 @@
 ## Hello :earth_africa:! I'm [Benjamín.](https://www.linkedin.com/in/benjamin81/) 
-🌱 **Full Stack Web Development**
+🌱 **Full Stack Web Development | Data Analyst**
 
 <!--
 **Benja022/Benja022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
