@@ -1,19 +1,6 @@
 ## Hello :earth_africa:! I'm [Benjamín.](https://www.linkedin.com/in/benjamin81/) 
 🌱 **Full Stack Web Development**
 
-<u>I Know:</u>
-* [x] HTML.
-* [x] CSS.
-* [x] SASS.
-* [x] Boopstrap.
-* [x] JavaScript.
-* [x] SQL y MongoDB.
-* [x] React.js.
-* [x] Node.js.
-* [X] Java.
-* [X] Spring Boot.
-
-
 <!--
 **Benja022/Benja022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
