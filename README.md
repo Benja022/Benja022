@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AnalogStudiosRI/asp.net-core-logger/master/images/data-analytics-banner.gif" alt="Data Analytics Banner" width="600" height="200">
+  <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="Data Analytics Banner" width="600" height="300">
 </div>
 
 ## 🚀 Analista de Datos & Full Stack Developer
@@ -34,15 +34,16 @@ Soy un apasionado analista de datos con experiencia en desarrollo full stack, es
 
 ### 🗄️ **Bases de Datos & SQL**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🌐 **Development & Tools**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Slim](https://img.shields.io/badge/Slim-74A045?style=for-the-badge&logo=slim&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </div>
 
@@ -141,24 +142,8 @@ Soy un apasionado analista de datos con experiencia en desarrollo full stack, es
   
 **💡 "Los datos son el nuevo petróleo, pero el análisis es la refinería"**
 
-![Visitor Count](https://profile-counter.glitch.me/Benja022/count.svg)
+[![Profile Views](https://komarev.com/ghpvc/?username=Benja022&color=blueviolet&style=for-the-badge&label=VISITANTES+DEL+PERFIL)](https://github.com/Benja022)
 
 ⭐ **¡Si te gusta mi trabajo, dale una estrella a mis repositorios!** ⭐
 
-</div>frica:! I'm [Benjamín.](https://www.linkedin.com/in/benjamin81/) 
-🌱 **Full Stack Web Development | Data Analyst**
-
-<!--
-**Benja022/Benja022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
